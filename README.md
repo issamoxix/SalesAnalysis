@@ -1,5 +1,6 @@
 # SalesAnalysis
 Data Sets from and Question from [this video](https://youtu.be/eMOA1pPVUc4)
+this is my approche to the questions in the video
 
 ## This Analysis Answers Question as :
 - What was the best month for sales? How much was earned that month?
